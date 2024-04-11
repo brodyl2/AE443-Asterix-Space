@@ -1,0 +1,15 @@
+,Minimum Delta V Impact,Maximum Delta V Impact,Most Likely Delta V Impact
+,,,
+Costs Need to be Spread Out,500,501,500
+,,,
+Components Fail During Qualification,500,501,500
+,,,
+GRS Cryocooler Failure,500,501,500
+,,,
+Sensor Calibration Fails,500,501,500
+,,,
+Mecahnisms Fail to Deploy,1.1,500,450
+,,,
+Assembly Requires Design Modifications,500,501,500
+,,,
+Propulsion Maturity is Behind Expectations,1.1,500,350

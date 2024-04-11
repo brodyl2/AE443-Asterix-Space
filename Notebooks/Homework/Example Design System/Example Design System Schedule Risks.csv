@@ -1,0 +1,15 @@
+,Minimum Schedule Impact,Maximum Schedule Impact,Most Likely Schedule Impact
+,,,
+Costs Need to be Spread Out,1.1,43.4,11.6
+,,,
+Components Fail During Qualification,1.2,24,6
+,,,
+GRS Cryocooler Failure,0.01,0.03,0.02
+,,,
+Sensor Calibration Fails,3,6,3
+,,,
+Mecahnisms Fail to Deploy,1.4,3,3
+,,,
+Assembly Requires Design Modifications,1.5,24,3
+,,,
+Propulsion Maturity is Behind Expectations,1.6,60,18

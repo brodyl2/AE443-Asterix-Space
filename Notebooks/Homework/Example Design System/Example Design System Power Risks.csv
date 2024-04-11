@@ -1,0 +1,15 @@
+,Minimum Power Impact,Maximum Power Impact,Most Likely Power Impact
+,,,
+Costs Need to be Spread Out,800,801,800
+,,,
+Components Fail During Qualification,800,801,800
+,,,
+GRS Cryocooler Failure,800,801,800
+,,,
+Sensor Calibration Fails,750,800,800
+,,,
+Mecahnisms Fail to Deploy,1.2,800,780
+,,,
+Assembly Requires Design Modifications,800,801,800
+,,,
+Propulsion Maturity is Behind Expectations,800,801,800
